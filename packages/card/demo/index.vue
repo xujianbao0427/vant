@@ -1,6 +1,6 @@
 <template>
   <demo-section background="white">
-    <demo-block :title="$t('basicUsage')">
+    
       <van-card
         num="2"
         price="2.00"
@@ -8,7 +8,7 @@
         :title="$t('title')"
         :thumb="imageURL"
       />
-    </demo-block>
+  
 
     <demo-block :title="$t('advancedUsage')">
       <van-card
