@@ -8,7 +8,7 @@
         :title="$t('title')"
         :thumb="imageURL"
       />
-    </demo-block>
+  </demo-block>
 
     <demo-block :title="$t('advancedUsage')">
       <van-card
